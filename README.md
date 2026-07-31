@@ -8,8 +8,8 @@ I am a computer sciencist with knowledge in data analysis.Currently am building 
 
  ##Projects
  - Urbanmart Dataset
- - Sales Performance(...)
+ - Sales Performance(https://github.com/patienceorahs84-rgb/Sales_Performance)
 
 ##Let's Connect
-Linkedin(...)
+Linkedin(www.linkedin.com/in/nakigudde-patience)
 
