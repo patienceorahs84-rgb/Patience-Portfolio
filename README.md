@@ -6,10 +6,10 @@ I am a computer sciencist with knowledge in data analysis.Currently am building 
 - Power BI
 - SQL
 
- ##Projects
+ ## Projects
  - Urbanmart Dataset
  - Sales Performance(https://github.com/patienceorahs84-rgb/Sales_Performance)
 
-##Let's Connect
+## Let's Connect
 Linkedin(www.linkedin.com/in/nakigudde-patience)
 
